@@ -9,7 +9,7 @@ This altas, in the MNI152, is composed on two different files:
 1. ROI atlas: that is composed of 35 ROIs
 2. tract atlas: that is composed of white matter tracts
 
-![[prova](https://github.com/marta-gaviraghi/olfactory_atlas/blob/main/roi_tracts.svg)]
+(https://github.com/marta-gaviraghi/olfactory_atlas/blob/main/roi_tracts.svg)
 
 For the ROI of the atlas were extracted from standard parcellation altas (such as Brodmann, Juelich etc).
 
