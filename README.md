@@ -13,7 +13,7 @@ This altas, in the MNI152, is composed on two different files:
 
 For the ROI of the atlas were extracted from standard parcellation altas (such as Brodmann, Juelich etc).
 
-To generate the white matter tracts we used 10 Human Connectom Project (HCP) subjects. After having reconstructed the traits for each subject with tractography we averaged the 10 subjects.
+To generate the white matter tracts we used 10 Human Connectom Project (HCP) subjects. After having reconstructed the tracts for each subject with tractography we averaged the 10 subjects.
 
 The olfactory atlas can be used for obtain all the ROIs and the tracts that are involved in the olfactory circuit.
 
