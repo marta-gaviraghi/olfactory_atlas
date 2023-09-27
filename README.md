@@ -4,14 +4,14 @@
 Loss of smell is present in many diseases. For example, in COVID-19 diseases it is known that anosmia is present in many subjects.
 In order to investigate how the olfactory circuit is alterated we create the **olfactory atlas**.
 
-This altas, in the MNI152, is composed on two different files:
+This altas, in the MNI152, is composed of two different files:
 
 1. ROI atlas: that is composed of 35 ROIs
 2. tract atlas: that is composed of white matter tracts
 
 ![alt text](https://github.com/marta-gaviraghi/olfactory_atlas/blob/main/roi_tracts.svg)
 
-For the ROI of the atlas were extracted from standard parcellation altas (such as Brodmann, Juelich etc).
+For the ROI of the atlas were extracted from standard parcellation atlas (such as Brodmann, Juelich etc).
 
 To generate the white matter tracts we used 10 Human Connectom Project (HCP) subjects. After having reconstructed the tracts for each subject with tractography we averaged the 10 subjects.
 
